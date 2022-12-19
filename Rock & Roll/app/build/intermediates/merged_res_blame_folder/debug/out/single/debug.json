@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/drawable_flashtext.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/drawable/flashtext.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/drawable_actionbar.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/drawable/actionbar.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/drawable_buttontwo.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/drawable/buttontwo.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/raw_disneymickey.mp3.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/raw/disneymickey.mp3"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/drawable_background.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/drawable/background.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/raw_tomandjerry.mp3.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/raw/tomandjerry.mp3"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/drawable_buttonfive.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/drawable/buttonfive.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/drawable_buttonfour.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/drawable/buttonfour.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/drawable_flash.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/drawable/flash.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/drawable_buttoneight.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/drawable/buttoneight.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/drawable_buttoneone.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/drawable/buttoneone.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/raw_ohtoodles.mp3.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/raw/ohtoodles.mp3"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/raw_cartton.mp3.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/raw/cartton.mp3"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/layout_activity_flash_screen.xml.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/layout/activity_flash_screen.xml"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/drawable_buttonthree.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/drawable/buttonthree.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/drawable_radioimage.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/drawable/radioimage.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/raw_popoye.mp3.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/raw/popoye.mp3"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/raw_tintin.mp3.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/raw/tintin.mp3"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/anim_flashscreenanim.xml.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/anim/flashscreenanim.xml"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/raw_mustanghot.mp3.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/raw/mustanghot.mp3"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/drawable_buttonsix.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/drawable/buttonsix.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/raw_woody.mp3.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/raw/woody.mp3"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/drawable_buttonzero.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/drawable/buttonzero.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/drawable_flashscreen.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/drawable/flashscreen.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/drawable_buttonseven.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/drawable/buttonseven.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/raw_manwhistle.mp3.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/raw/manwhistle.mp3"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/drawable_flashbackground.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/drawable/flashbackground.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/RockRoll/app/build/intermediates/merged_res/debug/drawable-v24_buttonnine.png.flat",
+        "source": "/Users/pushpendrasingh/RockRoll/app/src/main/res/drawable-v24/buttonnine.png"
+    }
+]
