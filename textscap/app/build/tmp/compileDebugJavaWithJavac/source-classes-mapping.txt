@@ -1,0 +1,20 @@
+com/dbcts/textskap/MainActivity.java
+ com.dbcts.textskap.MainActivity
+com/dbcts/textskap/RegistrationScreen.java
+ com.dbcts.textskap.RegistrationScreen
+ com.dbcts.textskap.RegistrationScreen$1
+ com.dbcts.textskap.RegistrationScreen$2
+com/dbcts/textskap/FlashScreen.java
+ com.dbcts.textskap.FlashScreen
+ com.dbcts.textskap.FlashScreen$1
+com/dbcts/textskap/BuildConfig.java
+ com.dbcts.textskap.BuildConfig
+com/dbcts/textskap/IndividualMessage.java
+ com.dbcts.textskap.IndividualMessage
+com/dbcts/textskap/LogInScreen.java
+ com.dbcts.textskap.LogInScreen
+ com.dbcts.textskap.LogInScreen$1
+ com.dbcts.textskap.LogInScreen$2
+com/dbcts/textskap/ChatActivity.java
+ com.dbcts.textskap.ChatActivity
+ com.dbcts.textskap.ChatActivity$1

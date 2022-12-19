@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "925409740488",
+    "project_id": "textskapx",
+    "storage_bucket": "textskapx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925409740488:android:1ad5163e47159ff7d887fd",
+        "android_client_info": {
+          "package_name": "com.dbcts.textskap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925409740488-1n90hvp759q3e1ened7se53fmnk0fmk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASksFDPDs9aXO0ZxvD9X4yYQ8FrYVLJLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925409740488-1n90hvp759q3e1ened7se53fmnk0fmk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

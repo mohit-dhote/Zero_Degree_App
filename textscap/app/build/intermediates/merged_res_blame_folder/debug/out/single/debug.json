@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/drawable_signup.png.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/drawable/signup.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/drawable_lightpinkbutton.xml.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/drawable/lightpinkbutton.xml"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/layout_activity_chat.xml.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/drawable_flash.png.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/drawable/flash.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/drawable_circle.xml.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/drawable/circle.xml"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/layout_activity_log_in_screen.xml.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/layout/activity_log_in_screen.xml"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/drawable_signin.png.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/drawable/signin.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/layout_activity_registration_screen.xml.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/layout/activity_registration_screen.xml"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/layout_activity_flash_screen.xml.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/layout/activity_flash_screen.xml"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/drawable_button_curve.xml.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/drawable/button_curve.xml"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/drawable_home.png.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/drawable/home.png"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/pushpendrasingh/TextSkap2/app/build/intermediates/merged_res/debug/layout_chat.xml.flat",
+        "source": "/Users/pushpendrasingh/TextSkap2/app/src/main/res/layout/chat.xml"
+    }
+]
