@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/fToC"
+        android:layout_width="282dp"
+        android:layout_height="49dp"
+        android:layout_gravity="center"
+
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="23dp"
+        android:layout_marginEnd="65dp"
+        android:width="35dp"
+        android:background="@drawable/button"
+        android:onClick="userEnter2"
+        android:text="@string/fahrenheit_to_celsius"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/enterTemp"
+        tools:ignore="DuplicateClickableBoundsCheck" />
+
+    <Button
+        android:id="@+id/cToF"
+        android:layout_width="282dp"
+        android:layout_height="49dp"
+        android:layout_gravity="center"
+
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="65dp"
+        android:width="35dp"
+        android:background="@drawable/button"
+        android:onClick="userEnter1"
+        android:text="@string/celsius_to_fahrenheit"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fToC" />
+
+    <EditText
+        android:id="@+id/enterTemp"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="80dp"
+
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="81dp"
+        android:ems="10"
+        android:hint="Enter Temperature"
+        android:inputType="numberDecimal"
+        android:minHeight="48dp"
+        android:textAlignment="center"
+        android:textSize="25dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="265dp"
+        android:layout_height="181dp"
+
+        android:layout_marginStart="73dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="73dp"
+        android:scaleType="fitXY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/zeroDegree"
+        app:srcCompat="@drawable/rr" />
+
+    <TextView
+        android:id="@+id/zeroDegree"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+
+        android:layout_marginStart="33dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="34dp"
+        android:fontFamily="@font/anton"
+        android:text="Temperature Conversion"
+        android:textAlignment="center"
+        android:textColor="#656671"
+        android:textSize="35dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
